@@ -1,7 +1,7 @@
 # Whatsapp-Message-Parser
 
 ## Overview
-A Parser made for using exported Whatsapp messages (more than 40k) to analize chat data.
+A Parser made for using exported Whatsapp messages (more than 40k) to analyze chat data.
 Tutorial modified for 2024 from [this source](https://www.reddit.com/r/DataHoarder/comments/a7c0yq/full_whatsapp_chat_export_40000_messages/
 ) (might be useful if you encounter errors).
 
@@ -9,7 +9,7 @@ Tutorial modified for 2024 from [this source](https://www.reddit.com/r/DataHoard
 Follow the tutorial from [this link](https://faq.whatsapp.com/1180414079177245/?cms_platform=android)
 
 ## Over 40k messages
-- You can get the full chat in other ways, the problem is that after a certain Whatsapp version, they are stored encrypted so you will be unable to view/analize them with another app.
+- You can get the full chat in other ways, the problem is that after a certain Whatsapp version, they are stored encrypted so you will be unable to view/analyze them with another app.
 1. Enable Developer options (Settings->System->About Phone->Software Information-> 7 x Click on Build Number) on your Android. Return to settings and from the new section Developer options enable USB Debugging.
 2. Install Python on the PC/laptop.
 3. Install Java on the PC/laptop.
@@ -34,7 +34,7 @@ Follow the tutorial from [this link](https://faq.whatsapp.com/1180414079177245/?
 22. Finally, open WhatsApp Viewer. Click on File, select the msgstore.db under File, input your account email under Account name (just put the email you use for your Play Store account), and select the wa.db file under wa.db.
 23. Select one of the chats and export it to .json.
 
-## This is where my python code proves usefull
-You can view your messages here, or export them in .html to see all the messages for a specific chat. However, if you want to analize them ([like ChatCharts](https://chatcharts.co.uk), but for free) you can parse them to a format that is easily recognized by different free Chat Analizer Apps:
+## This is where my python code proves useful
+You can view your messages here, or export them in .html to see all the messages for a specific chat. However, if you want to analyze them ([like ChatCharts](https://chatcharts.co.uk), but for free) you can parse them to a format that is easily recognized by different free Chat Analyzer Apps:
 - [Chat Stats for WhatsApp](https://play.google.com/store/apps/details?id=com.joseluisgalan.android.chatstats&hl=en_US)
 - to be added
