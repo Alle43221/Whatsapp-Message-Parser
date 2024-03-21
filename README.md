@@ -12,7 +12,7 @@ Follow the tutorial from [this link](https://faq.whatsapp.com/1180414079177245/?
 1. Enable Developer options (Settings->System->About Phone->Software Information-> 7 x click on Build Number) on your Android. Return to settings and from the new section Developer options enable USB Debugging.
 2. Install Python on the PC/laptop.
 3. Install Java on the PC/laptop.
-4. Grab the WhatsApp Key/Database Extractor from [here](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor)(Code->Download zip) and unzip it.
+4. Grab the WhatsApp Key/Database Extractor from [here](https://github.com/YuvrajRaghuvanshiS/WhatsApp-Key-Database-Extractor) (Code->Download zip) and unzip it.
 5. From your phone, take a backup of your chats (Whatsapp Settings->Chat Settings->Chat Backup).
 6. Turn off your phone's internet/mobile data so you don't lose any new messages.
 7. Connect your phone via USB to the PC/laptop.
