@@ -2,7 +2,7 @@
 
 ## Overview
 A Parser made for using exported Whatsapp messages (more than 40k) to analize chat data.
-Tutorial modified for 2024 from the following sources:
+Tutorial modified for 2024 from the following sources (might be useful if you encounter errors):
 - https://www.reddit.com/r/DataHoarder/comments/a7c0yq/full_whatsapp_chat_export_40000_messages/
 
 ## Under 40k messages
