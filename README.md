@@ -35,6 +35,6 @@ Follow the tutorial from [this link](https://faq.whatsapp.com/1180414079177245/?
 23. Select one of the chats and export it to .json.
 
 ## This is where my python code proves useful
-You can view your messages here, or export them in .html to see all the messages for a specific chat. However, if you want to analyze them ([like ChatCharts](https://chatcharts.co.uk), but for free) you can parse them to a format that is easily recognized by different free Chat Analyzer Apps:
+You can view your messages here, or export them in .html to see all the messages for a specific chat. However, if you want to analyze them (like [ChatCharts](https://chatcharts.co.uk), but for free) you can parse them to a format that is easily recognized by different free Chat Analyzer Apps:
 - [Chat Stats for WhatsApp](https://play.google.com/store/apps/details?id=com.joseluisgalan.android.chatstats&hl=en_US)
 - to be added
