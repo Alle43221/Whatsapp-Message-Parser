@@ -60,6 +60,10 @@ Even exporting to .txt file will give the following format, which doesn't includ
 
 ![image](https://github.com/user-attachments/assets/52ca8911-cfa2-4bdd-9062-f4e0e09575cd)
 
-However, when exporting to .json, each message has a lot more data associated:
+However, when exporting to .json, each message has more data associated:
 
+![image](https://github.com/user-attachments/assets/bdfc2271-d25a-4db8-9031-37661e709d9b)
 
+And in the end the right .txt formatting for uploading in the chat analyzer app:
+
+![image](https://github.com/user-attachments/assets/0430cd3e-2d33-4a0c-bc2c-9e40b353c3f7)
