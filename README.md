@@ -42,8 +42,8 @@ You can view your messages in WhatsApp Viewer, or export them in .html to see al
 - [DoubleText](https://app.doubletext.me/whatsapp)
 - [Whatsapp Group Chat Analyzer](https://whats-chat-detective.streamlit.app)
 1. Grab this Python code (Code->Download zip) and unzip it.
-2. Copy the .json file in this folder.
-3. Open the unziped folder in terminal. If on Windows 11, Right Click inside the folder -> Open in terminal. If on Windows 10, SHIFT + Right Click inside the folder -> Open in terminal.
+2. Copy the .json file in folder ```pythonProject``` so that the programm has access to it.
+3. Open the folder ```pythonProject``` in terminal. If on Windows 11, Right Click inside the folder -> Open in terminal. If on Windows 10, SHIFT + Right Click inside the folder -> Open in terminal.
 4. Run with command ```python3 ./main.py```.
 
 ![Screenshot 2024-09-11 105221](https://github.com/user-attachments/assets/873a0ac8-aeee-4a82-8aae-88bfe9941a8b)
